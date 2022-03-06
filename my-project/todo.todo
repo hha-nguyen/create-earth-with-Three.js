@@ -1,0 +1,12 @@
+Todo:
+    create a sphere @done
+    map a texture onto sphere @done
+    sharpen rendering @done
+    
+    Alter texture with shader for atmosphere effect
+        create first vertex shader @done
+        install vite-plugin-string @done
+        add Texture to fragment shader using uniforms @done
+        tranfer vertexUV to fragment shader using varying @done
+
+    
